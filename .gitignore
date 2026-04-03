@@ -1,0 +1,35 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# OpenClaw local state
+.openclaw/
+
+# Temporary / generated work
+/tmp/
+tmp/
+tmp_*.txt
+tmp_*.py
+
+# Downloaded / extracted skill packages
+*.zip
+
+# Sensitive local data dumps
+/decrypted/
+security.log
+security_config.json
+
+# Local repos / submodules / large working copies not ready to track
+wechat-chat-analyzer/
