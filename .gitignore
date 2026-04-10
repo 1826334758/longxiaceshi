@@ -9,3 +9,8 @@ memory/2026-04-08-check-in.md
 memory/
 novel/
 qiushi-skill/
+
+# local recovery / backup artifacts
+.git.broken-*/
+state/git-backups/
+state/perm_test.txt
