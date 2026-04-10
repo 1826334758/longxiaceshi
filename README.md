@@ -34,6 +34,15 @@
 - `HEARTBEAT.md`
   - 心跳轮询任务入口
 
+## 工作区结构
+
+- `WORKSPACE-STRUCTURE.md`
+  - 顶层目录与关键文件的职责边界说明
+  - 用于区分正式区、候选区、写作区与历史残留区
+
+- `WORKSPACE-STRUCTURE-AUDIT.md`
+  - 当前工作区结构问题的审计结果与整理优先级
+
 ## 技能系统
 
 - `SKILL-SYSTEM.md`
